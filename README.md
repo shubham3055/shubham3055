@@ -73,9 +73,9 @@ To become a skilled Frontend Developer and AI/ML Engineer who creates impactful 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Email: [Your Email]
+- LinkedIn: www.linkedin.com/in/shubham-jamble-04b274378
+- GitHub: https://github.com/shubham3055
+- Email: shubham.jamble33@gmail.com
 
 ---
 
